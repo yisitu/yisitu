@@ -21,7 +21,7 @@ Contributions:
 Pluggable profiler request ([more](https://github.com/tensorflow/community/pull/262#issuecomment-670037215))
 
 Contributions:
-* [Design doc](https://docs.google.com/document/d/1-p90eGbcrui7bKVNEKcu1uQn5nyLi4uTW1wSXxH4wo4/edit?resourcekey=0-don3IDO-IIMnpS8XloQNuQ)
+* [Google Doc of design proposal](https://docs.google.com/document/d/1-p90eGbcrui7bKVNEKcu1uQn5nyLi4uTW1wSXxH4wo4/edit?resourcekey=0-don3IDO-IIMnpS8XloQNuQ)
 * [**Pull request**](https://github.com/tensorflow/community/pull/389), [RFC](https://github.com/tensorflow/community/blob/master/rfcs/20210513-pluggable-profiler-for-tensorflow.md)
 
 ### All TensorFlow Contributions
